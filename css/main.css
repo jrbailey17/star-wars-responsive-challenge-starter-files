@@ -1,0 +1,33 @@
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+header {
+	background-color: gold;
+	margin-bottom: 40px;
+}
+
+.col-4 {
+	margin-bottom: 40px;
+}
+
+header p {
+	margin-top: -15px;
+}
+
+.box {
+	border: .08em solid rgb(150, 150, 150);
+}
+
+img{
+	width: 100%;
+}
+
+h2 {
+	margin-bottom: -10px;
+	padding-left: 10px;
+}
+
+.description {
+	padding-left: 10px;
+}
